@@ -25,7 +25,8 @@ int main()
 {
     std::string flag;
   //  cin >> flag;
-//
+
+    //meow
  //   message(flag);
     double a, b, c;
     cin>>a>>b>>c;
